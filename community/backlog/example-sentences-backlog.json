@@ -438,7 +438,7 @@
     "jlpt": "N3",
     "id": 49,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "分からない単語は辞書で調べてから質問してください。",
@@ -456,7 +456,7 @@
     "jlpt": "N3",
     "id": 51,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "宿題を忘れないように、カレンダーに書いておきます。",
@@ -465,7 +465,7 @@
     "jlpt": "N4",
     "id": 52,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "店員さんにおすすめの料理を聞いてみた。",
@@ -474,7 +474,7 @@
     "jlpt": "N4",
     "id": 53,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この表現は場面によって失礼に聞こえることがある。",
@@ -528,7 +528,7 @@
     "jlpt": "N3",
     "id": 59,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "彼女は忙しいはずなのに、いつも丁寧に返信してくれる。",
@@ -654,7 +654,7 @@
     "jlpt": "N4",
     "id": 73,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この表現は場面によって失礼に聞こえることがある。",
@@ -663,7 +663,7 @@
     "jlpt": "N2",
     "id": 74,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "漢字の意味を文脈で推測する力が大切だ。",
@@ -672,7 +672,7 @@
     "jlpt": "N2",
     "id": 75,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "週末は友達と映画を見に行くつもりです。",
@@ -681,7 +681,7 @@
     "jlpt": "N4",
     "id": 76,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "電車が遅れていたので、少し遅刻しました。",
@@ -690,7 +690,7 @@
     "jlpt": "N4",
     "id": 77,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この問題は思ったより難しくなかった。",
@@ -699,7 +699,7 @@
     "jlpt": "N3",
     "id": 78,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "彼は日本で働くためにビジネス日本語を学んでいる。",
@@ -708,7 +708,7 @@
     "jlpt": "N3",
     "id": 79,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "彼女は忙しいはずなのに、いつも丁寧に返信してくれる。",
@@ -716,7 +716,7 @@
     "english": "Even though she must be busy, she always replies politely.",
     "jlpt": "N2",
     "id": 80,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
