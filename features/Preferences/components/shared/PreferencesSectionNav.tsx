@@ -7,7 +7,7 @@ import { useClick } from '@/shared/hooks/generic/useAudio';
 import { Joystick, Palette, Wand2 } from 'lucide-react';
 
 const badgeClasses =
-  'flex h-9 w-9 items-center justify-center rounded-2xl border-b-6 border-(--main-color-accent) bg-(--main-color) text-(--background-color) shadow-[0_2px_0_var(--main-color-accent)]';
+  'flex h-10 w-10 shrink-0 items-center justify-center rounded-2xl border-b-6 border-(--secondary-color-accent) bg-(--secondary-color) leading-none text-(--background-color) shadow-[0_2px_0_var(--secondary-color-accent)]';
 
 const ACTIVE_SECTION_OFFSET = 156;
 const NAV_CLICK_SUPPRESSION_MS = 3000;
@@ -174,7 +174,7 @@ const PreferencesSectionNav = () => {
                   href={`#${section.id}`}
                   onClick={event => handleNavigate(event, section.id)}
                   className={cn(
-                    'relative z-10 flex w-full cursor-pointer items-center justify-center gap-2 rounded-2xl px-5 pt-2 pb-4 text-sm font-semibold no-underline transition-colors duration-300 sm:px-5',
+                    'relative z-10 flex w-full cursor-pointer items-center justify-center gap-2 rounded-2xl px-6 py-3.5 text-sm font-semibold no-underline transition-colors duration-300 sm:px-6',
                     isSelected
                       ? 'text-(--background-color)'
                       : 'text-(--secondary-color)/70 hover:text-(--main-color)',
