@@ -124,12 +124,13 @@ npm run check
 | [All Documentation](./docs/)                              | Complete documentation index                   |
 
 ## Tech Stack
-- [Next.js](https://nextjs.org/) 15  
-- [React](https://react.dev/) 19  
-- [TypeScript](https://www.typescriptlang.org/)  
-- [Tailwind CSS](https://tailwindcss.com/)  
-- [shadcn/ui](https://ui.shadcn.com/)  
-- [Zustand](https://github.com/pmndrs/zustand)  
+
+- [Next.js](https://nextjs.org/) 15
+- [React](https://react.dev/) 19
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [shadcn/ui](https://ui.shadcn.com/)
+- [Zustand](https://github.com/pmndrs/zustand)
 - [Framer Motion](https://www.framer.com/motion/)
 
 > See [Architecture docs](./docs/ARCHITECTURE.md) for full technical details.
@@ -192,3 +193,6 @@ This project is licensed under the AGPL 3.0 License — see [LICENSE.md](./LICEN
 [⬆ Back to top](#top)
 
 </div>
+#   k a n a - D o j o 
+ 
+ 
